@@ -1,0 +1,7 @@
+{
+  "name": "NS PDF",
+  "description": "All-in-One PDF Editor: Edit, Create, Scan, Convert, Organize and Protect PDFs Easily",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
